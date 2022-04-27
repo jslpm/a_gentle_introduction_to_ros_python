@@ -2,7 +2,7 @@
 
 This repository has code exercises from the book [A Gentle Introduction to ROS](https://www.cse.sc.edu/~jokane/agitr/) by Jason O'Kane. All codes are developed using python.
 
-![ros_example](turtlesim_example.png)
+![ros_example](images/turtlesim_example.png)
 
 ## Dependencies
 * [ROS noetic](http://wiki.ros.org/noetic)
